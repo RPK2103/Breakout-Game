@@ -1,0 +1,8 @@
+Create a sanvas context
+Create and draw a ball
+Create and draw paddle
+create bricks
+draw score
+add update()- animate which redraws the canvas from scratch using requestAnimationFrame(ch)
+Move paddle
+Keyboard event handlers
